@@ -52,8 +52,3 @@ The split is fixed before training: 70% training, 15% validation, and 15% testin
 
 The single validation metric is macro F1. It evaluates every material class separately and gives all nine classes equal importance.
 
-## Sources
-
-- UCI dataset: https://doi.org/10.24432/C5SS4G
-- Creators' repository: https://github.com/sam-single/realwaste
-- Introductory paper: https://doi.org/10.3390/info14120633
